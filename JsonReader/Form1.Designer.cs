@@ -208,7 +208,7 @@
             this.KeyPreview = true;
             this.MinimumSize = new System.Drawing.Size(530, 350);
             this.Name = "Form1";
-            this.Text = "Json reader © PB 20150131";
+            this.Text = "Json reader © PB 20150131b";
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.statusStrip1.ResumeLayout(false);
